@@ -1,0 +1,7 @@
+yogurt	Com
+no	Stool_sample_A
+no	Stool_sample_B
+no	Stool_sample_C
+yes	Stool_sample_D
+yes	Stool_sample_E
+yes	Stool_sample_F
