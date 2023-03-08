@@ -1,0 +1,354 @@
+Reading in OTU count table
+Reading in observed correlations
+Reading in 100 bootstrap correlations
+	Bootstrap correlation 0: bootstrap_correlation/cor_0.tsv
+	Bootstrap correlation 1: bootstrap_correlation/cor_1.tsv
+	Bootstrap correlation 2: bootstrap_correlation/cor_10.tsv
+	Bootstrap correlation 3: bootstrap_correlation/cor_11.tsv
+	Bootstrap correlation 4: bootstrap_correlation/cor_12.tsv
+	Bootstrap correlation 5: bootstrap_correlation/cor_13.tsv
+	Bootstrap correlation 6: bootstrap_correlation/cor_14.tsv
+	Bootstrap correlation 7: bootstrap_correlation/cor_15.tsv
+	Bootstrap correlation 8: bootstrap_correlation/cor_16.tsv
+	Bootstrap correlation 9: bootstrap_correlation/cor_17.tsv
+	Bootstrap correlation 10: bootstrap_correlation/cor_18.tsv
+	Bootstrap correlation 11: bootstrap_correlation/cor_19.tsv
+	Bootstrap correlation 12: bootstrap_correlation/cor_2.tsv
+	Bootstrap correlation 13: bootstrap_correlation/cor_20.tsv
+	Bootstrap correlation 14: bootstrap_correlation/cor_21.tsv
+	Bootstrap correlation 15: bootstrap_correlation/cor_22.tsv
+	Bootstrap correlation 16: bootstrap_correlation/cor_23.tsv
+	Bootstrap correlation 17: bootstrap_correlation/cor_24.tsv
+	Bootstrap correlation 18: bootstrap_correlation/cor_25.tsv
+	Bootstrap correlation 19: bootstrap_correlation/cor_26.tsv
+	Bootstrap correlation 20: bootstrap_correlation/cor_27.tsv
+	Bootstrap correlation 21: bootstrap_correlation/cor_28.tsv
+	Bootstrap correlation 22: bootstrap_correlation/cor_29.tsv
+	Bootstrap correlation 23: bootstrap_correlation/cor_3.tsv
+	Bootstrap correlation 24: bootstrap_correlation/cor_30.tsv
+	Bootstrap correlation 25: bootstrap_correlation/cor_31.tsv
+	Bootstrap correlation 26: bootstrap_correlation/cor_32.tsv
+	Bootstrap correlation 27: bootstrap_correlation/cor_33.tsv
+	Bootstrap correlation 28: bootstrap_correlation/cor_34.tsv
+	Bootstrap correlation 29: bootstrap_correlation/cor_35.tsv
+	Bootstrap correlation 30: bootstrap_correlation/cor_36.tsv
+	Bootstrap correlation 31: bootstrap_correlation/cor_37.tsv
+	Bootstrap correlation 32: bootstrap_correlation/cor_38.tsv
+	Bootstrap correlation 33: bootstrap_correlation/cor_39.tsv
+	Bootstrap correlation 34: bootstrap_correlation/cor_4.tsv
+	Bootstrap correlation 35: bootstrap_correlation/cor_40.tsv
+	Bootstrap correlation 36: bootstrap_correlation/cor_41.tsv
+	Bootstrap correlation 37: bootstrap_correlation/cor_42.tsv
+	Bootstrap correlation 38: bootstrap_correlation/cor_43.tsv
+	Bootstrap correlation 39: bootstrap_correlation/cor_44.tsv
+	Bootstrap correlation 40: bootstrap_correlation/cor_45.tsv
+	Bootstrap correlation 41: bootstrap_correlation/cor_46.tsv
+	Bootstrap correlation 42: bootstrap_correlation/cor_47.tsv
+	Bootstrap correlation 43: bootstrap_correlation/cor_48.tsv
+	Bootstrap correlation 44: bootstrap_correlation/cor_49.tsv
+	Bootstrap correlation 45: bootstrap_correlation/cor_5.tsv
+	Bootstrap correlation 46: bootstrap_correlation/cor_50.tsv
+	Bootstrap correlation 47: bootstrap_correlation/cor_51.tsv
+	Bootstrap correlation 48: bootstrap_correlation/cor_52.tsv
+	Bootstrap correlation 49: bootstrap_correlation/cor_53.tsv
+	Bootstrap correlation 50: bootstrap_correlation/cor_54.tsv
+	Bootstrap correlation 51: bootstrap_correlation/cor_55.tsv
+	Bootstrap correlation 52: bootstrap_correlation/cor_56.tsv
+	Bootstrap correlation 53: bootstrap_correlation/cor_57.tsv
+	Bootstrap correlation 54: bootstrap_correlation/cor_58.tsv
+	Bootstrap correlation 55: bootstrap_correlation/cor_59.tsv
+	Bootstrap correlation 56: bootstrap_correlation/cor_6.tsv
+	Bootstrap correlation 57: bootstrap_correlation/cor_60.tsv
+	Bootstrap correlation 58: bootstrap_correlation/cor_61.tsv
+	Bootstrap correlation 59: bootstrap_correlation/cor_62.tsv
+	Bootstrap correlation 60: bootstrap_correlation/cor_63.tsv
+	Bootstrap correlation 61: bootstrap_correlation/cor_64.tsv
+	Bootstrap correlation 62: bootstrap_correlation/cor_65.tsv
+	Bootstrap correlation 63: bootstrap_correlation/cor_66.tsv
+	Bootstrap correlation 64: bootstrap_correlation/cor_67.tsv
+	Bootstrap correlation 65: bootstrap_correlation/cor_68.tsv
+	Bootstrap correlation 66: bootstrap_correlation/cor_69.tsv
+	Bootstrap correlation 67: bootstrap_correlation/cor_7.tsv
+	Bootstrap correlation 68: bootstrap_correlation/cor_70.tsv
+	Bootstrap correlation 69: bootstrap_correlation/cor_71.tsv
+	Bootstrap correlation 70: bootstrap_correlation/cor_72.tsv
+	Bootstrap correlation 71: bootstrap_correlation/cor_73.tsv
+	Bootstrap correlation 72: bootstrap_correlation/cor_74.tsv
+	Bootstrap correlation 73: bootstrap_correlation/cor_75.tsv
+	Bootstrap correlation 74: bootstrap_correlation/cor_76.tsv
+	Bootstrap correlation 75: bootstrap_correlation/cor_77.tsv
+	Bootstrap correlation 76: bootstrap_correlation/cor_78.tsv
+	Bootstrap correlation 77: bootstrap_correlation/cor_79.tsv
+	Bootstrap correlation 78: bootstrap_correlation/cor_8.tsv
+	Bootstrap correlation 79: bootstrap_correlation/cor_80.tsv
+	Bootstrap correlation 80: bootstrap_correlation/cor_81.tsv
+	Bootstrap correlation 81: bootstrap_correlation/cor_82.tsv
+	Bootstrap correlation 82: bootstrap_correlation/cor_83.tsv
+	Bootstrap correlation 83: bootstrap_correlation/cor_84.tsv
+	Bootstrap correlation 84: bootstrap_correlation/cor_85.tsv
+	Bootstrap correlation 85: bootstrap_correlation/cor_86.tsv
+	Bootstrap correlation 86: bootstrap_correlation/cor_87.tsv
+	Bootstrap correlation 87: bootstrap_correlation/cor_88.tsv
+	Bootstrap correlation 88: bootstrap_correlation/cor_89.tsv
+	Bootstrap correlation 89: bootstrap_correlation/cor_9.tsv
+	Bootstrap correlation 90: bootstrap_correlation/cor_90.tsv
+	Bootstrap correlation 91: bootstrap_correlation/cor_91.tsv
+	Bootstrap correlation 92: bootstrap_correlation/cor_92.tsv
+	Bootstrap correlation 93: bootstrap_correlation/cor_93.tsv
+	Bootstrap correlation 94: bootstrap_correlation/cor_94.tsv
+	Bootstrap correlation 95: bootstrap_correlation/cor_95.tsv
+	Bootstrap correlation 96: bootstrap_correlation/cor_96.tsv
+	Bootstrap correlation 97: bootstrap_correlation/cor_97.tsv
+	Bootstrap correlation 98: bootstrap_correlation/cor_98.tsv
+	Bootstrap correlation 99: bootstrap_correlation/cor_99.tsv
+Calculating 124 total permutations
+	Total permutation 0 of 124
+	Total permutation 1 of 124
+	Total permutation 2 of 124
+	Total permutation 3 of 124
+	Total permutation 4 of 124
+	Total permutation 5 of 124
+	Total permutation 6 of 124
+	Total permutation 7 of 124
+	Total permutation 8 of 124
+	Total permutation 9 of 124
+	Total permutation 10 of 124
+	Total permutation 11 of 124
+	Total permutation 12 of 124
+	Total permutation 13 of 124
+	Total permutation 14 of 124
+	Total permutation 15 of 124
+	Total permutation 16 of 124
+	Total permutation 17 of 124
+	Total permutation 18 of 124
+	Total permutation 19 of 124
+	Total permutation 20 of 124
+	Total permutation 21 of 124
+	Total permutation 22 of 124
+	Total permutation 23 of 124
+	Total permutation 24 of 124
+	Total permutation 25 of 124
+	Total permutation 26 of 124
+	Total permutation 27 of 124
+	Total permutation 28 of 124
+	Total permutation 29 of 124
+	Total permutation 30 of 124
+	Total permutation 31 of 124
+	Total permutation 32 of 124
+	Total permutation 33 of 124
+	Total permutation 34 of 124
+	Total permutation 35 of 124
+	Total permutation 36 of 124
+	Total permutation 37 of 124
+	Total permutation 38 of 124
+	Total permutation 39 of 124
+	Total permutation 40 of 124
+	Total permutation 41 of 124
+	Total permutation 42 of 124
+	Total permutation 43 of 124
+	Total permutation 44 of 124
+	Total permutation 45 of 124
+	Total permutation 46 of 124
+	Total permutation 47 of 124
+	Total permutation 48 of 124
+	Total permutation 49 of 124
+	Total permutation 50 of 124
+	Total permutation 51 of 124
+	Total permutation 52 of 124
+	Total permutation 53 of 124
+	Total permutation 54 of 124
+	Total permutation 55 of 124
+	Total permutation 56 of 124
+	Total permutation 57 of 124
+	Total permutation 58 of 124
+	Total permutation 59 of 124
+	Total permutation 60 of 124
+	Total permutation 61 of 124
+	Total permutation 62 of 124
+	Total permutation 63 of 124
+	Total permutation 64 of 124
+	Total permutation 65 of 124
+	Total permutation 66 of 124
+	Total permutation 67 of 124
+	Total permutation 68 of 124
+	Total permutation 69 of 124
+	Total permutation 70 of 124
+	Total permutation 71 of 124
+	Total permutation 72 of 124
+	Total permutation 73 of 124
+	Total permutation 74 of 124
+	Total permutation 75 of 124
+	Total permutation 76 of 124
+	Total permutation 77 of 124
+	Total permutation 78 of 124
+	Total permutation 79 of 124
+	Total permutation 80 of 124
+	Total permutation 81 of 124
+	Total permutation 82 of 124
+	Total permutation 83 of 124
+	Total permutation 84 of 124
+	Total permutation 85 of 124
+	Total permutation 86 of 124
+	Total permutation 87 of 124
+	Total permutation 88 of 124
+	Total permutation 89 of 124
+	Total permutation 90 of 124
+	Total permutation 91 of 124
+	Total permutation 92 of 124
+	Total permutation 93 of 124
+	Total permutation 94 of 124
+	Total permutation 95 of 124
+	Total permutation 96 of 124
+	Total permutation 97 of 124
+	Total permutation 98 of 124
+	Total permutation 99 of 124
+	Total permutation 100 of 124
+	Total permutation 101 of 124
+	Total permutation 102 of 124
+	Total permutation 103 of 124
+	Total permutation 104 of 124
+	Total permutation 105 of 124
+	Total permutation 106 of 124
+	Total permutation 107 of 124
+	Total permutation 108 of 124
+	Total permutation 109 of 124
+	Total permutation 110 of 124
+	Total permutation 111 of 124
+	Total permutation 112 of 124
+	Total permutation 113 of 124
+	Total permutation 114 of 124
+	Total permutation 115 of 124
+	Total permutation 116 of 124
+	Total permutation 117 of 124
+	Total permutation 118 of 124
+	Total permutation 119 of 124
+	Total permutation 120 of 124
+	Total permutation 121 of 124
+	Total permutation 122 of 124
+	Total permutation 123 of 124
+Calculating the 15376 p-values
+	Calculating p-values for row 0 of 124
+	Calculating p-values for row 1 of 124
+	Calculating p-values for row 2 of 124
+	Calculating p-values for row 3 of 124
+	Calculating p-values for row 4 of 124
+	Calculating p-values for row 5 of 124
+	Calculating p-values for row 6 of 124
+	Calculating p-values for row 7 of 124
+	Calculating p-values for row 8 of 124
+	Calculating p-values for row 9 of 124
+	Calculating p-values for row 10 of 124
+	Calculating p-values for row 11 of 124
+	Calculating p-values for row 12 of 124
+	Calculating p-values for row 13 of 124
+	Calculating p-values for row 14 of 124
+	Calculating p-values for row 15 of 124
+	Calculating p-values for row 16 of 124
+	Calculating p-values for row 17 of 124
+	Calculating p-values for row 18 of 124
+	Calculating p-values for row 19 of 124
+	Calculating p-values for row 20 of 124
+	Calculating p-values for row 21 of 124
+	Calculating p-values for row 22 of 124
+	Calculating p-values for row 23 of 124
+	Calculating p-values for row 24 of 124
+	Calculating p-values for row 25 of 124
+	Calculating p-values for row 26 of 124
+	Calculating p-values for row 27 of 124
+	Calculating p-values for row 28 of 124
+	Calculating p-values for row 29 of 124
+	Calculating p-values for row 30 of 124
+	Calculating p-values for row 31 of 124
+	Calculating p-values for row 32 of 124
+	Calculating p-values for row 33 of 124
+	Calculating p-values for row 34 of 124
+	Calculating p-values for row 35 of 124
+	Calculating p-values for row 36 of 124
+	Calculating p-values for row 37 of 124
+	Calculating p-values for row 38 of 124
+	Calculating p-values for row 39 of 124
+	Calculating p-values for row 40 of 124
+	Calculating p-values for row 41 of 124
+	Calculating p-values for row 42 of 124
+	Calculating p-values for row 43 of 124
+	Calculating p-values for row 44 of 124
+	Calculating p-values for row 45 of 124
+	Calculating p-values for row 46 of 124
+	Calculating p-values for row 47 of 124
+	Calculating p-values for row 48 of 124
+	Calculating p-values for row 49 of 124
+	Calculating p-values for row 50 of 124
+	Calculating p-values for row 51 of 124
+	Calculating p-values for row 52 of 124
+	Calculating p-values for row 53 of 124
+	Calculating p-values for row 54 of 124
+	Calculating p-values for row 55 of 124
+	Calculating p-values for row 56 of 124
+	Calculating p-values for row 57 of 124
+	Calculating p-values for row 58 of 124
+	Calculating p-values for row 59 of 124
+	Calculating p-values for row 60 of 124
+	Calculating p-values for row 61 of 124
+	Calculating p-values for row 62 of 124
+	Calculating p-values for row 63 of 124
+	Calculating p-values for row 64 of 124
+	Calculating p-values for row 65 of 124
+	Calculating p-values for row 66 of 124
+	Calculating p-values for row 67 of 124
+	Calculating p-values for row 68 of 124
+	Calculating p-values for row 69 of 124
+	Calculating p-values for row 70 of 124
+	Calculating p-values for row 71 of 124
+	Calculating p-values for row 72 of 124
+	Calculating p-values for row 73 of 124
+	Calculating p-values for row 74 of 124
+	Calculating p-values for row 75 of 124
+	Calculating p-values for row 76 of 124
+	Calculating p-values for row 77 of 124
+	Calculating p-values for row 78 of 124
+	Calculating p-values for row 79 of 124
+	Calculating p-values for row 80 of 124
+	Calculating p-values for row 81 of 124
+	Calculating p-values for row 82 of 124
+	Calculating p-values for row 83 of 124
+	Calculating p-values for row 84 of 124
+	Calculating p-values for row 85 of 124
+	Calculating p-values for row 86 of 124
+	Calculating p-values for row 87 of 124
+	Calculating p-values for row 88 of 124
+	Calculating p-values for row 89 of 124
+	Calculating p-values for row 90 of 124
+	Calculating p-values for row 91 of 124
+	Calculating p-values for row 92 of 124
+	Calculating p-values for row 93 of 124
+	Calculating p-values for row 94 of 124
+	Calculating p-values for row 95 of 124
+	Calculating p-values for row 96 of 124
+	Calculating p-values for row 97 of 124
+	Calculating p-values for row 98 of 124
+	Calculating p-values for row 99 of 124
+	Calculating p-values for row 100 of 124
+	Calculating p-values for row 101 of 124
+	Calculating p-values for row 102 of 124
+	Calculating p-values for row 103 of 124
+	Calculating p-values for row 104 of 124
+	Calculating p-values for row 105 of 124
+	Calculating p-values for row 106 of 124
+	Calculating p-values for row 107 of 124
+	Calculating p-values for row 108 of 124
+	Calculating p-values for row 109 of 124
+	Calculating p-values for row 110 of 124
+	Calculating p-values for row 111 of 124
+	Calculating p-values for row 112 of 124
+	Calculating p-values for row 113 of 124
+	Calculating p-values for row 114 of 124
+	Calculating p-values for row 115 of 124
+	Calculating p-values for row 116 of 124
+	Calculating p-values for row 117 of 124
+	Calculating p-values for row 118 of 124
+	Calculating p-values for row 119 of 124
+	Calculating p-values for row 120 of 124
+	Calculating p-values for row 121 of 124
+	Calculating p-values for row 122 of 124
+	Calculating p-values for row 123 of 124
+Writing out p-values
